@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0162-find-peak-element) |
+## Math
+|  |
+| ------- |
+| [2769-find-the-maximum-achievable-number](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2769-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
