@@ -18,4 +18,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2769-find-the-maximum-achievable-number](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2769-find-the-maximum-achievable-number) |
+| [1486-xor-operation-in-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1486-xor-operation-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
