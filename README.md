@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1486-xor-operation-in-an-array) |
 | [0009-palindrome-number](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0009-palindrome-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2652-sum-multiples](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2652-sum-multiples) |
 ## Bit Manipulation
 |  |
 | ------- |
