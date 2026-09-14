@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2951-find-the-peaks](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2951-find-the-peaks) |
 | [0162-find-peak-element](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0162-find-peak-element) |
+| [1550-three-consecutive-odds](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1550-three-consecutive-odds) |
 ## Enumeration
 |  |
 | ------- |
