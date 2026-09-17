@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0162-find-peak-element) |
 | [1550-three-consecutive-odds](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1550-three-consecutive-odds) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2549-count-distinct-numbers-on-board) |
 ## Enumeration
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2652-sum-multiples) |
 | [0069-sqrtx](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0231-power-of-two) |
+| [2549-count-distinct-numbers-on-board](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2549-count-distinct-numbers-on-board) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [2549-count-distinct-numbers-on-board](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2549-count-distinct-numbers-on-board) |
+## Simulation
+|  |
+| ------- |
+| [2549-count-distinct-numbers-on-board](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2549-count-distinct-numbers-on-board) |
 <!---LeetCode Topics End-->
