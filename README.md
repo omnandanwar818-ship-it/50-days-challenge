@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0231-power-of-two) |
 | [2549-count-distinct-numbers-on-board](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2549-count-distinct-numbers-on-board) |
+| [1688-count-of-matches-in-tournament](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1688-count-of-matches-in-tournament) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2549-count-distinct-numbers-on-board](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2549-count-distinct-numbers-on-board) |
+| [1688-count-of-matches-in-tournament](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
