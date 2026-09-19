@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1550-three-consecutive-odds) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2549-count-distinct-numbers-on-board) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Enumeration
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0231-power-of-two) |
 | [2549-count-distinct-numbers-on-board](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2549-count-distinct-numbers-on-board) |
 | [1688-count-of-matches-in-tournament](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1688-count-of-matches-in-tournament) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
