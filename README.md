@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2549-count-distinct-numbers-on-board) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3232-find-if-digit-game-can-be-won) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1688-count-of-matches-in-tournament) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2180-count-integers-with-even-digit-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
