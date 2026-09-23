@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
