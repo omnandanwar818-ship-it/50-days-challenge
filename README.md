@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [0410-split-array-largest-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0410-split-array-largest-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2553-separate-the-digits-in-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Enumeration
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0410-split-array-largest-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
 | ------- |
