@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
