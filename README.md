@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0410-split-array-largest-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1552-magnetic-force-between-two-balls](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1552-magnetic-force-between-two-balls) |
 ## Enumeration
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1552-magnetic-force-between-two-balls](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0410-split-array-largest-sum) |
+## Sorting
+|  |
+| ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
