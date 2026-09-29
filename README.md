@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1552-magnetic-force-between-two-balls) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0410-split-array-largest-sum) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0410-split-array-largest-sum) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Prefix Sum
 |  |
 | ------- |
