@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
