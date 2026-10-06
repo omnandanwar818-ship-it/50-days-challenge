@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3701-compute-alternating-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3701-compute-alternating-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2553-separate-the-digits-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3701-compute-alternating-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
