@@ -53,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2544-alternating-digit-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [0342-power-of-four](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1486-xor-operation-in-an-array) |
 | [0231-power-of-two](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0342-power-of-four) |
 ## Newton's Method
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
