@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2544-alternating-digit-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [0342-power-of-four](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0342-power-of-four) |
+| [0263-ugly-number](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0263-ugly-number) |
 ## Bit Manipulation
 |  |
 | ------- |
