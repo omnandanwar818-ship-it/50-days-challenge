@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3701-compute-alternating-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3701-compute-alternating-sum) |
+| [0217-contains-duplicate](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0217-contains-duplicate) |
 ## Enumeration
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2549-count-distinct-numbers-on-board](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2549-count-distinct-numbers-on-board) |
+| [0217-contains-duplicate](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
 | ------- |
@@ -101,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1552-magnetic-force-between-two-balls) |
+| [0217-contains-duplicate](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
