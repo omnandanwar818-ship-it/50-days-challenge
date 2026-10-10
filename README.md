@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3701-compute-alternating-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3701-compute-alternating-sum) |
 | [0217-contains-duplicate](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0217-contains-duplicate) |
+| [0075-sort-colors](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0075-sort-colors) |
 ## Enumeration
 |  |
 | ------- |
@@ -104,4 +105,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [0217-contains-duplicate](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0217-contains-duplicate) |
+| [0075-sort-colors](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
