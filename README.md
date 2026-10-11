@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [0342-power-of-four](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0342-power-of-four) |
 | [0263-ugly-number](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0264-ugly-number-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2549-count-distinct-numbers-on-board](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2549-count-distinct-numbers-on-board) |
 | [0217-contains-duplicate](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0264-ugly-number-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0410-split-array-largest-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0264-ugly-number-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0264-ugly-number-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
