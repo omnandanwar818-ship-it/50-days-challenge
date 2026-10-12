@@ -1,25 +1,38 @@
 class Solution {
 public:
     int nthUglyNumber(int n) {
-        if (n == 1) return 1;
+        vector<int> arr(n + 1);
         
-        vector<int> dp(n);
-        dp[0] = 1;
+        // Pointers for 2, 3, and 5 factors respectively
+        int i2 = 1;
+        int i3 = 1;
+        int i5 = 1;
+      
+        // The first ugly number is always 1
+        arr[1] = 1;
         
-        int twoPos = 0, threePos = 0, fivePos = 0;
-        
-        for (int i = 1; i < n; ++i) {
-            int next2 = dp[twoPos] * 2;
-            int next3 = dp[threePos] * 3;
-            int next5 = dp[fivePos] * 5;
-            
-            dp[i] = min({next2, next3, next5});
-            
-            if (dp[i] == next2) ++twoPos;
-            if (dp[i] == next3) ++threePos;
-            if (dp[i] == next5) ++fivePos;
+        for (int i = 2; i <= n; i++) {
+            int i2uglyNum = arr[i2] * 2;
+            int i3uglyNum = arr[i3] * 3;
+            int i5uglyNum = arr[i5] * 5;
+
+            // Find the next smallest ugly number
+            int miniMum = min({i2uglyNum, i3uglyNum, i5uglyNum});
+
+            arr[i] = miniMum;
+
+            // Advance the pointers. 
+            // Separate 'if' statements perfectly handle and skip duplicate values.
+            if (miniMum == i2uglyNum) {
+                i2++;
+            }
+            if (miniMum == i3uglyNum) {
+                i3++;
+            }
+            if (miniMum == i5uglyNum) {
+                i5++;
+            }
         }
-        
-        return dp[n - 1];
+        return arr[n]; // Returns the nth ugly number
     }
 };
