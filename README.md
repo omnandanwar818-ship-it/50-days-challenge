@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3701-compute-alternating-sum) |
 | [0217-contains-duplicate](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0217-contains-duplicate) |
 | [0075-sort-colors](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0628-maximum-product-of-three-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0342-power-of-four) |
 | [0263-ugly-number](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0264-ugly-number-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [0217-contains-duplicate](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0217-contains-duplicate) |
 | [0075-sort-colors](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
