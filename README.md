@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0264-ugly-number-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [0412-fizz-buzz](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3701-compute-alternating-sum) |
+| [0412-fizz-buzz](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
