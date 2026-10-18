@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0088-merge-sorted-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0088-merge-sorted-array) |
+| [0031-next-permutation](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0031-next-permutation) |
 ## Enumeration
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0088-merge-sorted-array) |
+| [0031-next-permutation](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0031-next-permutation) |
 ## Quicksort
 |  |
 | ------- |
