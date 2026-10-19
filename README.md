@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0088-merge-sorted-array) |
 | [0031-next-permutation](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0344-reverse-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -146,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0412-fizz-buzz) |
 | [0125-valid-palindrome](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
