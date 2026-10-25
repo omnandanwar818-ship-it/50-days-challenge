@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [0412-fizz-buzz](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0412-fizz-buzz) |
+| [0070-climbing-stairs](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0264-ugly-number-ii) |
+| [0070-climbing-stairs](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0680-valid-palindrome-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
