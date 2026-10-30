@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3701-compute-alternating-sum) |
 | [0412-fizz-buzz](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0412-fizz-buzz) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,8 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0680-valid-palindrome-ii) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
