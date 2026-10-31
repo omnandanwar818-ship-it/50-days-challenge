@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2549-count-distinct-numbers-on-board) |
 | [0217-contains-duplicate](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0264-ugly-number-ii) |
+| [0567-permutation-in-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0567-permutation-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0680-valid-palindrome-ii) |
+| [0567-permutation-in-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0567-permutation-in-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0680-valid-palindrome-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [0567-permutation-in-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0567-permutation-in-string) |
 ## Memoization
 |  |
 | ------- |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
