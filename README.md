@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0680-valid-palindrome-ii) |
 | [0567-permutation-in-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0567-permutation-in-string) |
+| [0151-reverse-words-in-a-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0151-reverse-words-in-a-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0680-valid-palindrome-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [0567-permutation-in-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0567-permutation-in-string) |
+| [0151-reverse-words-in-a-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0151-reverse-words-in-a-string) |
 ## Memoization
 |  |
 | ------- |
