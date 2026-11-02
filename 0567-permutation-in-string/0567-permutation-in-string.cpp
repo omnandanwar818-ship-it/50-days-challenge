@@ -12,6 +12,8 @@ bool istrue(int freq1[],int freq2[]){
         int freq[26]={0};
         //step-1---> find frequncy of s1.
         for(int i=0; i<s1.length(); i++){
+            // int idx=s[i]-'a';
+            // freq[idx]++;
             freq[s1[i]-'a']++;
         }
         // step-2--->making window
@@ -24,7 +26,7 @@ bool istrue(int freq1[],int freq2[]){
            windofreq[s2[idx]-'a']++;
            windoidx++,idx++;
         }
-  if(istrue(freq,windofreq)){//compare both frequency
+  if( windoidx==windowsize && istrue(freq,windofreq)){//compare both frequency
     return true;
   }
         }
