@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0567-permutation-in-string) |
 | [0151-reverse-words-in-a-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0443-string-compression) |
+| [3110-score-of-a-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3110-score-of-a-string) |
 ## Memoization
 |  |
 | ------- |
