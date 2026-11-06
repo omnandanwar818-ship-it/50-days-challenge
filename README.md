@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [0412-fizz-buzz](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0412-fizz-buzz) |
 | [0070-climbing-stairs](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0070-climbing-stairs) |
+| [1903-largest-odd-number-in-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0410-split-array-largest-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/0443-string-compression) |
 | [3110-score-of-a-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/3110-score-of-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/omnandanwar818-ship-it/50-days-challenge/tree/master/1903-largest-odd-number-in-string) |
 ## Memoization
 |  |
 | ------- |
